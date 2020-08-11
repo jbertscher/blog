@@ -1,3 +1,3 @@
 # Jonathan Bertscher's blog
 
-This is a place for me to explore topics that are of interest to me. I believe that one of the best ways to learn is to teach and do. By explaining things to others, and creating, I hope to deepen my own knowledge and understanding, and sharpen my toolbox.
+Hi, I'm Jonathan Bertscher. I'm a Data Analyst at Booking.com in Amsterdam, Netherlands. This blog is intended as a home for my thoughts on the things that interest me and that hopefully others will also find interesting and helpful.
