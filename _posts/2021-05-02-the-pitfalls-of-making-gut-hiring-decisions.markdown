@@ -12,7 +12,7 @@ Undoubtedly, gut decisions or instincts have their place. In [Blink](https://www
 
 # Structured vs unstructured interviews
 
-In an interview setting, I’ve come to believe that a structured, rational approach is more likely to lead to better hiring outcomes. That is, if hiring outcomes are measured by job performance.  [Google’s internal research] (https://rework.withgoogle.com/guides/hiring-use-structured-interviewing/steps/read-googles-internal-research/) found that structured interviews, defined as “using the same interviewing methods to assess candidates applying for the same job”, were more predictive of future performance than unstructured interviews. 
+In an interview setting, I’ve come to believe that a structured, rational approach is more likely to lead to better hiring outcomes. That is, if hiring outcomes are measured by job performance.  [Google’s internal research](https://rework.withgoogle.com/guides/hiring-use-structured-interviewing/steps/read-googles-internal-research/) found that structured interviews, defined as “using the same interviewing methods to assess candidates applying for the same job”, were more predictive of future performance than unstructured interviews. 
 
 Structured interviews are the opposite of interviews in which one presumes to make a decision based on gut feel. It is a way to overlay a systematic framework over the emotive aspects of the interview process. Why would you want to do this? Because humans aren’t as good as we think we are in making hiring decisions.
 
@@ -46,7 +46,7 @@ Unfairly dismissing someone because of one bad interview may be less likely with
 
 # Structure as an antidote to self-doubt
 
-Besides all the above, there is another important reason I’ve personally found to have good structure in interviews: to quel self-doubt or internal conflict. I often have trouble making decisions, constantly second-guessing myself. With an objective criteria on which to score someone, I am better able to confidently assess whether to hire someone, rather than be swayed by internal conflict.
+Besides all the above, there is another important reason I’ve personally found to have good structure in interviews: to quel self-doubt or internal conflict. I often have trouble making decisions, prone to second-guessing myself. With objective criteria on which to score someone, I am better able to confidently assess whether to hire someone, rather than be swayed by internal conflict.
 
 By way of example, say that a candidate doesn’t have the skill-set that you would ideally like a candidate to have right now and be concerned that it will affect their ability to do their job. Now, if you are systematic, taking into account years of work experience, evidence of their ability and willingness to learn, and the other positive qualities that they would bring to the team, it can help focus you around the important aspects of the decision, as opposed to getting swayed by this one factor, which has become salient, but should not be a deal-breaker.
 
