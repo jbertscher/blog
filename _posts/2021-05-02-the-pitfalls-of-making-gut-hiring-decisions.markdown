@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The pitfalls of making gut hiring decisions"
+title:  "The Pitfalls of Making Gut Hiring Decisions"
 date:   2021-05-02
 categories: work hiring management
 ---
