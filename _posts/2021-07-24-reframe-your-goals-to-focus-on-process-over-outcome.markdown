@@ -52,7 +52,7 @@ Ok, so assuming you’re convinced that in a perfect world, we’d peg our happi
 
 I believe that there are 2 steps to this. First, separate the process from the outcome. Then reframe what you’re trying to achieve in terms of process rather than outcome. 
 
-### How to separate process from outcome
+**How to separate process from outcome**
 
 Work backwards from the outcome you want to achieve. What are the high-level elements that go into succeeding?
 From the list above, recognise what is in your control, what is partly in your control, and what is not at all in your control. For those things partly within your control, what specific actions can you take?
@@ -62,7 +62,7 @@ Let’s use the example of applying for a new job:
 
 ![Example]({{ BASE_PATH }}/assets/images/reframing_goals_example.png)
 
-### How to reframe your happiness to depend on the process rather than the outcome
+**How to reframe your happiness to depend on the process rather than the outcome**
 
 Recognise that, given the things outside of your control, it doesn’t make sense for your goal to be succeeding in any one event. The best you can do is hope to increase your success rate over time. Following on from our job-seeking example above, that could translate into moving through to the next round for a higher proportion of interviews.
 Recognise that increasing your success rate means succeeding in the execution of your process to the best of your ability - in this case improving your experiences, skills, and knowledge over time; being as prepared as you can be before the interview (given current information and time constraints); and being as relaxed and optimistic as possible during the interview. The book [Designing Your Life](https://www.goodreads.com/book/show/26046333-designing-your-life) suggests that your goal should be to get as many job offers as possible instead of getting any particular job. While I think that this moves us in the right direction, I don’t think this should not be the goal itself. While it’s something more tightly connected to what’s in your control, it’s the focus on the process that will actually increase your success rate. 
