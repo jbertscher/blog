@@ -27,6 +27,8 @@ url: "https://jonbertscher.com" # the base hostname & protocol for your site, e.
 twitter_username: jbertscher
 github_username:  jbertscher
 
+BASE_PATH : "/Users/jonathan/git_tree/blog"
+
 # Build settings
 theme: minima
 plugins:
