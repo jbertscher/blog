@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reframe Your Goals to Focus on Process Over Outcome"
-date:   2021-06-19
+date:   2021-07-24
 categories: goals well-being motivation success
 ---
 
