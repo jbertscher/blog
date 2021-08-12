@@ -5,8 +5,6 @@ date:   2021-08-12
 categories: personal-project personal-record learnings
 ---
 
-# Personal project: Compairbnb
-
 What follows serves to bookmark a project that I’ve been working on for a few months.
 
 I’ve often found it difficult to coordinate booking holiday accommodations with friends. I think it’s because it’s difficult to keep track of what you’re considering, compare the features of all of the candidate listings, and ascertain everyone’s preferences. And I think it’s a shame. Some of my best times have been with friends in a holiday accommodation.
@@ -33,31 +31,31 @@ The app has 3 main visual components:
 
 This is what it looks like:
 
-![image1]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb.image1.png)
+![image1]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/image1.png)
 
 One feature I think is particularly useful is its ability to parse out the number of each bed type specified:
 
-![image2]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb.image2.png)
+![image2]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/image2.png)
 
 You can delete listings by clicking on the red “x” on the left-most column. You can toggle column visibility using the context menu of the second column:
 
-![image3]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb.image3.png)
+![image3]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/image3.png)
 
 You can add comments:
 
-![image4]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb.image4.png)
+![image4]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/image4.png)
 
 You can delete users using a context menu:
 
-![image5]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb.image5.png)
+![image5]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/image5.png)
 
 You can sort columns:
 
-![image6]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb.image6.png)
+![image6]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/image6.png)
 
 I froze the first 3 columns so that you always know what listing you’re looking at when you scroll horizontally:
 
-![image7]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb.image7.png)
+![image7]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/image7.png)
 
 ## Components
 
