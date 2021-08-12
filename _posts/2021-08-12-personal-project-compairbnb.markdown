@@ -31,31 +31,31 @@ The app has 3 main visual components:
 
 This is what it looks like:
 
-![image1]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/image1.png)
+![overview]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/overview.png)
 
 One feature I think is particularly useful is its ability to parse out the number of each bed type specified:
 
-![image2]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/image2.png)
+![parse_bed_types]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/parse_bed_types.png)
 
 You can delete listings by clicking on the red “x” on the left-most column. You can toggle column visibility using the context menu of the second column:
 
-![image3]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/image3.png)
+![delete_listing_toggle_columns]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/delete_listing_toggle_columns.png)
 
 You can add comments:
 
-![image4]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/image4.png)
+![comments]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/comments.png)
 
-You can delete users using a context menu:
+You can remove users using a context menu:
 
-![image5]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/image5.png)
+![remove_users]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/remove_users.png)
 
 You can sort columns:
 
-![image6]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/image6.png)
+![sorting]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/sorting.png)
 
 I froze the first 3 columns so that you always know what listing you’re looking at when you scroll horizontally:
 
-![image7]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/image7.png)
+![frozen_columns]({{ BASE_PATH }}/assets/images/2021-08-12-personal-project-compairbnb/frozen_columns.png)
 
 ## Components
 
