@@ -102,7 +102,11 @@ Now that we know what all these things are, we can understand what the performan
 
 I’ve tried to give you a basic understanding of how to evaluate classification models. There are, of course, many more things that can be said on the topic. But this will give you the fundamentals that you need to start having more informed discussions on the topic or as a springboard for future learning.
 
+<br />
+
 ---
+
+<br />
 
 [^1]: Table 2: [https://www.nature.com/articles/s41598-021-95957-w/tables/2](https://www.nature.com/articles/s41598-021-95957-w/tables/2)
 
